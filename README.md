@@ -7,7 +7,7 @@ A simple CRUD application using Spring WebFlux and MongoDB. This project is a si
 Clone the repository:
 
 ```bash
-git clone https://github.com/username/project.git
+git clone https://github.com/jean2978/crud-reactive.git
 ```
 
 Navigate to the project directory:
